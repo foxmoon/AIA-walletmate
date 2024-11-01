@@ -46,7 +46,7 @@ The platform utilizes two main smart contracts deployed on the AIAdviser network
 
 1. Clone the repository:
 git clone https://github.com/your-username/aiwallet-super.git
-cd aiwallet-super
+cd sysfront
 
 2.:
 bash
