@@ -1,0 +1,10 @@
+{
+  "network": "aiadviser",
+  "chainId": 1320,
+  "contracts": {
+    "ADVToken": "0xD657cB34E21eac820dd97A1B04d96Cf3fc1B9dEb",
+    "AIAdvisorDAO": "0x6b46bA8F86E27EA1BBBaA138e388b0206CedacB1"
+  },
+  "deployer": "0x945c254064cc292c35FA8516AFD415a73A0b23A0",
+  "timestamp": "2024-10-30T13:59:22.257Z"
+}
