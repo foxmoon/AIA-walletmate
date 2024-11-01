@@ -1,0 +1,1 @@
+export type AdvisorType = "稳健理财顾问" | "增长型顾问" | "量化交易顾问" | "MEME币顾问"; 
